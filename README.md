@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on:
+    - Data visualizations using Observable, D3, and web dev in general
+    - Power outage collection at [LuzPR](luzpr.com)
+    - Using sqlglot + duckdb in the browser (TBD)
+- 🌱 I’m currently learning
+    - SvelteKit for data apps
+    - Data orchestration using dbt (and maybe sqlmesh soon)
+- 😄 Pronouns: he/him
+
 <!--
 **jzavala-gonzalez/jzavala-gonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
